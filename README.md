@@ -8,3 +8,7 @@ app 維護時間檔案
 # access_status.sh
 
 zabbix 狀態碼
+
+# GeoIP-106_20181106.dat
+
+GeoIP Data
